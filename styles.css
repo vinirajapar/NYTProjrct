@@ -1,0 +1,24 @@
+.jumbotron {
+    text-align: center;
+    background-color: darkslategray;
+    color: white;
+    border-radius: 0;
+    border-bottom: 10px solid black;
+  }
+
+.form-group{
+   margin: 0.5cm;
+}
+
+.flex{
+    margin: 1cm;
+    white-space: pre-wrap;
+}
+
+.panel-title {
+  
+}
+.article-list a {
+  cursor: pointer;
+}
+
